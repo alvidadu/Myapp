@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jarvis.assistant.app-mergeDebugResources-37:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/caches/8.9/transforms/34a10605eef8402cd78a9fe17cc4f772/transformed/appcompat-1.7.0/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}
